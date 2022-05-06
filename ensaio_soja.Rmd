@@ -122,4 +122,4 @@ ggplot(data = df_organizado) +
 ```
 
 # Conclusão
-Quando organizamos a visualização dos gráficos, facilitamos a interpretação do leitor e anossa também.
+Quando organizamos a visualização dos gráficos, facilitamos a interpretação do leitor e a nossa também.
